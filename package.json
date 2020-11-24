@@ -1,0 +1,20 @@
+{
+  "name": "webapppractice",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node"
+  },
+  "keywords": [
+    "uyi"
+  ],
+  "author": "uyi",
+  "license": "ISC"
+}
